@@ -1,0 +1,2 @@
+class Reverse:
+    def words
